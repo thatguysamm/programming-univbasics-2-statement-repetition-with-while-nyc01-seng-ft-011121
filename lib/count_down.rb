@@ -1,5 +1,5 @@
 count= 10
-while count> 1 && count!= what_year do
+while count>= 1
   puts count
   count= count- 1
 end
